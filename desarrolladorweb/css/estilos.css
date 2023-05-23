@@ -1,0 +1,65 @@
+p {
+  display: flex;
+  justify-content: center;
+}
+
+#navegador {
+  display: flex;
+  justify-content: center;
+}
+section {
+  display: flex;
+  justify-content: center;
+}
+aside {background-position: center;
+border: 2px solid }
+.texto {text-align: center;
+}
+h2 {text-align: center;
+}
+.textomapa {text-align: center;
+}
+#mapa1 {
+display: flex;
+
+align-items: center;
+}
+.TACC {color: red;
+}
+.video1 {
+  display: flex;
+  
+  align-items: center;
+}
+.igimg {
+ width: 100px;
+ height: auto;
+}
+.twimg {
+  width: 100px;
+  height: auto;
+}
+.wspimg {
+  width: 100px;
+  height: auto;
+}
+.inumakilogo {
+  width: 100px;
+  height: auto;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  justify-content: space-between;
+  background-color: #FFF8E7;
+}
+.mapasaladillo {
+  width: 400px;
+  height: 150px;
+}
+.footer {
+  display: flex;
+  justify-content: space-around;
+  justify-content: space-between;
+  background-color: #FFF8E7;
+}
